@@ -1,0 +1,4 @@
+﻿  AssemblyInfo.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+.NETFramework,Version=v4.7.2.AssemblyAttributes.obj : warning LNK4099: PDB 'vc142.pdb' was not found with '.NETFramework,Version=v4.7.2.AssemblyAttributes.obj' or at 'C:\Users\Arjan Singh\Desktop\OpenGLinWPF\OpenGLinWPF\Debug\vc142.pdb'; linking object as if no debug info
+  OpenGLinCpp.vcxproj -> C:\Users\Arjan Singh\Desktop\OpenGLinWPF\OpenGLinWPF\Debug\OpenGLinCpp.dll
