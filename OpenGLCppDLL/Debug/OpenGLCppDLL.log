@@ -1,0 +1,3 @@
+﻿  pch.cpp
+c1xx : error C2338: two-phase name lookup is not supported for C++/CLI or C++/CX; use /Zc:twoPhase-
+c1xx : fatal error C1903: unable to recover from previous error(s); stopping compilation
