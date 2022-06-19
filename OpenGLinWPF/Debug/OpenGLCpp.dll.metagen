@@ -1,0 +1,26 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly OpenGLCpp, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Class OpenGLCpp.OpenGLHwnd: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Interop.HwndHost
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    OnRenderSizeChanged(SizeChangedInfo): PrivateScope, Public, Virtual, HideBySig
+    OnRender(DrawingContext): PrivateScope, Public, Virtual, HideBySig
+    DestroyWindowCore(HandleRef): PrivateScope, Public, Virtual, HideBySig
+    RegisterWindowClass(): PrivateScope, Public, HideBySig
+    BuildWindowCore(HandleRef): PrivateScope, Public, Virtual, HideBySig
