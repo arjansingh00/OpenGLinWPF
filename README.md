@@ -4,7 +4,7 @@
 
 #### This project is based upon this [CodeProject tutorial](https://www.codeproject.com/Articles/23736/Creating-OpenGL-Windows-in-WPF) and the code provided there.
 
-I have rebuilt the application mentioned above using the same source code (with a few modifications) using a C++ CLR Class Library, because the original project that is from 2009 did not work on my computer. I use the compiled DLL in the C# WPF project.
+I rebuilt the application mentioned above using the same source code (with a few modifications) using a C++ CLR Class Library, because the original project that is from 2009 did not work on my computer. I use the compiled DLL in the C# WPF project.
 
 The code currently retains formatting from the original project, which can be slightly confusing, inconsistent, and redundant in places.
 
